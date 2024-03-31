@@ -1,6 +1,10 @@
 #!/bin/bash
 
 # This is a simple Bash script
+<<<<<<< HEAD
 echo "Hello, this is Huyen's first Bash script!"
+=======
+echo "Hello, this is my first Bash script!"
+>>>>>>> e10290bdb97566717106218b8c4efe4a9e962c2b
 echo "Today's date is Sun Mar 31"
 
