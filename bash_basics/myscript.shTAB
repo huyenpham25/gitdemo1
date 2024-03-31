@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# This is a simple Bash script
+echo "Hello, this is my first Bash script!"
+echo "Today's date is Sun Mar 31"
+
